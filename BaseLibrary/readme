@@ -1,0 +1,33 @@
+BaseLibrary
+
+基础控件
+常用工具类
+Base类
+      BaseActivity
+      BaseFragment
+
+
+common  存放公用的类文件
+
+ext  扩展
+
+rx  rxjava 所需要的基类
+
+widgets 自定义的 通用视图
+
+MVP架构 包结构：
+1、 data 访问数据
+    net 网络数据
+
+    protocol 存放json对应的实体类
+
+2、 presenter
+
+    view  视图回调
+
+3、ui
+    activity
+    fragment
+    adapter
+
+
